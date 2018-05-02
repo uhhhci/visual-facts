@@ -20,7 +20,7 @@ The goal of our project was to develop a program helping historians to read and 
 - [VisualFacts_1.0.zip](VisualFacts%20Unity/VisualFacts%20Build/VisualFacts_1.0.zip)
 
 ## Info
-If you do want to work with the code please note that part of it is ignored due to a purchased Asset. Contact one of the involved members for further information.
+If you do want to work with the code please note that part of it is ignored due to a purchased Asset. Also for commercial uses, please contact one of the [authors](mailto:lubos@informatik.uni-hamburg.de).
 
 ## Approach
 To ensure the usefulness of VisualFacts to the target group, we worked closely together with historians of Universität Hamburg. The cooperation resulted in both translation of common methods from the real into the virtual world, as well as in the creation of new analyzing methods. 
