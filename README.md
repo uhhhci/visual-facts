@@ -13,6 +13,9 @@
 - Sebastian Rings
 - Paul Lubos
 
+#### Head of Group
+- Prof. Dr. Frank Steinicke
+
 ## Goal
 The goal of our project was to develop a program helping historians to read and analyze historic, written-on stone artifacts. Since working with the real artifact requires physical access to it, the idea of VisualFacts is to use 3D-scans rather than the real artifact. The main focus of VisualFacts lies on usability and simplicity, as it was designed to be a practical tool in the daily work context of historians.
 
